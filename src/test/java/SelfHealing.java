@@ -26,6 +26,7 @@ public class SelfHealing {
         Thread.sleep(35000);
         try {
             driver.findElement(By.xpath("//*[@id='LandingAirBookingSearchForm_submit-button']")).click();
+            System.out.println("Done:");
         } catch (Exception io) {
             System.out.println(io.toString());
         } finally {
