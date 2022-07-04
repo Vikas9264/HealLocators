@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="59016" started-at="2022-06-29T14:07:50 IST" finished-at="2022-06-29T14:08:49 IST">
+  <suite name="All Test Suite" duration-ms="88344" started-at="2022-07-04T12:14:56 IST" finished-at="2022-07-04T12:16:25 IST">
     <groups>
     </groups>
-    <test name="test1" duration-ms="59016" started-at="2022-06-29T14:07:50 IST" finished-at="2022-06-29T14:08:49 IST">
+    <test name="test1" duration-ms="88344" started-at="2022-07-04T12:14:56 IST" finished-at="2022-07-04T12:16:25 IST">
       <class name="SelfHealing">
-        <test-method status="PASS" signature="HealingTest()[pri:0, instance:SelfHealing@704a52ec]" name="HealingTest" duration-ms="58966" started-at="2022-06-29T14:07:50 IST" finished-at="2022-06-29T14:08:49 IST">
+        <test-method status="PASS" signature="HealingTest()[pri:0, instance:SelfHealing@704a52ec]" name="HealingTest" duration-ms="88283" started-at="2022-07-04T12:14:56 IST" finished-at="2022-07-04T12:16:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HealingTest -->
